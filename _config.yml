@@ -102,7 +102,10 @@ theme: yilia
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/YeDongaidiiqu/YeDongaidiiqu.github.io
+  branch: master
+
 
 jsonContent:
   meta: false
@@ -122,3 +125,4 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+
