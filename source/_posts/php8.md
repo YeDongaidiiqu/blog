@@ -23,7 +23,7 @@
    }
    testAttributes();
    ```
-
+<!--more-->
 3. Constructor property promotion
 
    ```
@@ -108,5 +108,4 @@
     > fpm
     >
     > ![image-20210506153347728](image-20210506153347728.png)
-
-#### 编程规约
+    
